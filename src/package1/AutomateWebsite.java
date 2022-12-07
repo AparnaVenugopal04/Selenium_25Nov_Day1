@@ -65,6 +65,7 @@ public class AutomateWebsite {
 		driver.findElement(By.id("nav-logo-sprites")).click();
 		
 		System.out.println("My code is complete");
+		System.out.println("But making changes again for github");
 		//Close the browser
 		//driver.quit();
 		 
