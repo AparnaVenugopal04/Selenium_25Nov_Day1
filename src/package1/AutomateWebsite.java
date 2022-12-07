@@ -64,6 +64,7 @@ public class AutomateWebsite {
 		//Navigate back to home page
 		driver.findElement(By.id("nav-logo-sprites")).click();
 		
+		System.out.println("My code is complete");
 		//Close the browser
 		//driver.quit();
 		 
