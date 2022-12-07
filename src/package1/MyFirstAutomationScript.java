@@ -13,6 +13,7 @@ public class MyFirstAutomationScript
 
 	public static void main(String[] args) 
 	{
+		System.out.println("Inside project");
 		//Set the chromedriver path
 		System.setProperty
 		("webdriver.chrome.driver", 
