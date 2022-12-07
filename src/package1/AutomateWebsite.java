@@ -13,6 +13,7 @@ public class AutomateWebsite {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Hello new change");
 		//Set the chrome driver path
 		System.setProperty
 		("webdriver.chrome.driver", 
